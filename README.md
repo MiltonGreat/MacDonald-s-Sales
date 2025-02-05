@@ -27,27 +27,27 @@ The McDonald's Sales 2022 Dashboard provides a comprehensive analysis of sales p
 
 ### Why This Project Matters
 
-✔ Data-Driven Decision Making – Helps businesses analyze financial performance and customer engagement.
-✔ Operational Insights – Identifies high-performing regions and sales channels for strategic planning.
-✔ Customer-Centric Approach – Highlights areas for enhancing customer satisfaction and retention.
+- ✔ Data-Driven Decision Making – Helps businesses analyze financial performance and customer engagement.
+- ✔ Operational Insights – Identifies high-performing regions and sales channels for strategic planning.
+- ✔ Customer-Centric Approach – Highlights areas for enhancing customer satisfaction and retention.
 
 ### What I Learned
 
-📌 Data Preparation & Cleaning – Ensured dataset accuracy and consistency.
-📌 Pivot Tables & Charts – Used for dynamic data aggregation and visualization.
-📌 Interactive Dashboards – Implemented slicers and filters for enhanced usability.
-📌 Time Series Analysis – Compared yearly trends to track growth and profitability.
+- 📌 Data Preparation & Cleaning – Ensured dataset accuracy and consistency.
+- 📌 Pivot Tables & Charts – Used for dynamic data aggregation and visualization.
+- 📌 Interactive Dashboards – Implemented slicers and filters for enhanced usability.
+- 📌 Time Series Analysis – Compared yearly trends to track growth and profitability.
 
 ### Tools & Techniques Used
 
-🛠 Microsoft Excel – Core tool for data analysis and dashboard creation.
-📊 Pivot Tables & Charts – Summarized key performance metrics.
-🔍 Data Visualization – Created interactive graphs, slicers, and trend analysis.
-📈 Customer Sentiment Analysis – Used visualizations to understand satisfaction trends.
+- 🛠 Microsoft Excel – Core tool for data analysis and dashboard creation.
+- 📊 Pivot Tables & Charts – Summarized key performance metrics.
+- 🔍 Data Visualization – Created interactive graphs, slicers, and trend analysis.
+- 📈 Customer Sentiment Analysis – Used visualizations to understand satisfaction trends.
 
 ### How to Use the Dashboard
 
-1️⃣ Open the Excel file containing the McDonald's sales dataset.
-2️⃣ Navigate to the Dashboard tab for interactive visualizations.
-3️⃣ Use slicers to filter data by year, country, or customer sentiment.
-4️⃣ Analyze sales trends, profit distribution, and customer satisfaction insights.
+1. Open the Excel file containing the McDonald's sales dataset.
+2. Navigate to the Dashboard tab for interactive visualizations.
+3. Use slicers to filter data by year, country, or customer sentiment.
+4. Analyze sales trends, profit distribution, and customer satisfaction insights.

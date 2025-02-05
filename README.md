@@ -7,7 +7,8 @@ The McDonald's Sales 2022 Dashboard provides a comprehensive analysis of sales p
 <img width="1199" alt="Dashboard Image2" src="https://github.com/user-attachments/assets/e4eee247-7cbe-475e-b86f-3b2f611015f7" />
 
 ### Key Insights & Features
-- 📊 Sales, Profit & Customer Analysis
+
+📊 Sales, Profit & Customer Analysis
 - Examined sales revenue, profit, and customer footfall to gain a holistic view of business performance.
 - Identified key drivers of profitability and customer engagement over time.
 
